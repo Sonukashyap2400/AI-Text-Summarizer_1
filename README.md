@@ -4,6 +4,8 @@ Project Overview
 AI Text Summarizer is a FastAPI-based backend service that provides AI-powered text summarization using Gemini API.
 It supports synchronous and asynchronous summarization, caching, and task management.
 
+Live Project Link - https://ai-text-summarizer-1-project.onrender.com
+
 Features
 
 Synchronous Summarization: Instant results via /summarize
